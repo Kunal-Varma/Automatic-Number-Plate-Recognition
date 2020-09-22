@@ -4,11 +4,12 @@
 To run this project just clone the repository
 
 # 1 Create a new environment using anaconda prompt
-## Command conda create -n anpr python==3.6.9
+
+* Command conda create -n anpr python==3.6.9
 
 # 2 Install all the dependencies
 
-## command pip install -r requirements.txt
+* command pip install -r requirements.txt
 
 # 3 Run the command python rest-server.py
 
